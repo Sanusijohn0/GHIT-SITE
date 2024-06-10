@@ -1,7 +1,6 @@
 # GHIT-SITE
 
-i thought of creating a new model of ghit's site with grid uou know to give grid a try
- note i might change my mind and use flex later on
+i thought of creating a new model of ghit's site using grid layout, but i change my mind tho cause i'm using flex now cause personally i feel it's easier
 
  # Customize
 
