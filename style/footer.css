@@ -3,3 +3,16 @@ footer {
   padding: 10px;
   border-top: 3px solid #333;
 }
+
+/*  xs */
+/* @media ( min-width: 475px){}  */
+/* sm */
+/* @media ( min-width: 640pxpx){} */
+/* md */
+/* @media ( min-width: 768px){} */
+/* lg */
+/* @media ( min-width: 1024px){} */
+/* xl */
+/* @media ( min-width: 1280px){} */
+/* 2xl */
+/* @media ( min-width: 1536px){} */
